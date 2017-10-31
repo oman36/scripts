@@ -1,4 +1,4 @@
-
+'use strict';
 (function () {
     var set = function (paths, value) {
         location.searchObject =
